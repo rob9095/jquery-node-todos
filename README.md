@@ -1,7 +1,7 @@
 # jquery-node-todos
 Simple todo app powered by Node.js, Express, and MongoDB on the backend and jQuery on the frontend 
 
-See the demo here [https://rt-portfolio.herokuapp.com/](https://rt-portfolio.herokuapp.com/)
+See the demo here [https://rt-todos.herokuapp.com/](https://rt-todos.herokuapp.com/)
 
 ### How to Launch App
 Download or clone the repo. From the root directory...
